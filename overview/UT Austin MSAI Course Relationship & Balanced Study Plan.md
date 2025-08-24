@@ -6,6 +6,8 @@ Thanks to [Gclabbe](https://github.com/Gclabbe/ut-msaio) for the reference.
 We referred to the information based on the GitHub contents provided here:  
 [UT MSAIO Course Relations (Nov 2024)](https://github.com/Gclabbe/ut-msaio/blob/main/overview/UT%20MSAIO%20Course%20Relations%20-%20Nov%202024.drawio.png)
 
+![UT MSAI Course Map](./UT_MSAIO_Course_Relations-Nov2024.drawio.png)
+
 ## 📅 Study Plan
 ### 📊 Difficulty Legend
 - 🟦 **Easy**  
